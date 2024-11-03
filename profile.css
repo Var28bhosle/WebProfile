@@ -1,0 +1,23 @@
+
+
+img{
+    border-style:groove;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+}
+
+#header
+{
+    color: white;
+    text-decoration: solid;
+
+}
+
+footer{
+    color: white;
+}
+
+h5{
+    color: white;
+}
